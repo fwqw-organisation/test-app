@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("test123");
+	printf("test123 - z wprowadzon¹ zmian¹");
 	_getch();
     return 0;
 }
